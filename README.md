@@ -749,7 +749,7 @@ Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGc...
 ### 1. Clonar el Proyecto
 
 ```bash
-git clone https://github.com/SantiagoRicaurte06/Gestion_Recursos_Humanos_API_DJango.git
+git clone https://github.com/juanezzzzz/Gestion_Recursos_Humanos_API_DJango.git
 cd Gestion_Recursos_Humanos_API_DJango
 ```
 
